@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: PREMISS Project
+title: ACROSS IJL
 
 # Your name to show in the footer
 author: A. Drogoul
@@ -15,16 +15,13 @@ author: A. Drogoul
 
 navbar-links:
   About: "about"
-  Partner Teams:
-    - University of Pretoria: "https://beautifuljekyll.com"
+  Partners:
+    - UMMISCO (IRD): "https://beautifuljekyll.com"
     - Thuyloi University: ""
-    - Taiwan National University: ""
-    - Bilgit University: ""
-    - IRD: ""
+    - Hanoi Architectural University: ""
+    - IRIT (Univ. Toulouse 1): ""
   Case Studies:
-    - Taiwan: "taiwan"
-    - Turkey: "turkey"
-    - Vietnam: "vietnam"
+    - Bac Hung Hai: "bachunghai"
   
 
 # --- Logo --- #
@@ -38,7 +35,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/PREMISS2.png"
+title-img: "/assets/img/ACROSS2.png"
 
 
 # --- Footer social media links --- #
@@ -46,12 +43,12 @@ title-img: "/assets/img/PREMISS2.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "premiss.project@gmail.com"
+  email: "alexis.drogoul@ird.fr"
 #  facebook: deanattali
-  github: PREMISS-Project
+  github: ACROSS-IJL
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: channel/UCUzYVQID76KonzboAB1CYbQ
+#  youtube: channel/UCUzYVQID76KonzboAB1CYbQ
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -72,7 +69,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: News about the PREMISS Project
+rss-description: News about the ACROSS IJL
 
 # --- General options --- #
 
@@ -85,7 +82,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "premiss.org"
+url-pretty: "across.vn"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
